@@ -1,3 +1,6 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/Tarannu/core.git
+[submodule "core-docker"]
+	path = core-docker
+	url = https://github.com/Tarannu/core-docker.git
